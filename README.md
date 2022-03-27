@@ -1,0 +1,2 @@
+# maxhook.json
+a
